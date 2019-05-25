@@ -49,7 +49,7 @@
 
 #### 3.1.3 设置可以ssh操作（否则Tortoise只能https方式访问）
 
-- 设置为Git安装目录下的ssh.exe
+- 设置为Git安装目录下的ssh.exe1
 
 ![1558812662333](D:\cloneCode\NOTE\git使用\1558812662333.png)
 
