@@ -39,7 +39,7 @@
 
 ![](assets/捕获2.PNG)
 
-![](assets/捕获.3PNG.PNG)
+![](assets/捕获3.PNG)
 
 最后内容修改为：
 
