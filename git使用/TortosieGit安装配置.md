@@ -11,7 +11,7 @@
 
 - 在空白处点击鼠标右键, 选择 --> TortoiseGit --> Settings, 弹出配置界面(当TortoiseGit安装完成后，鼠标右键点击后，默认出现 TortoiseGit 相关选项)
 
-  ![](D:\cloneCode\NOTE\git使用/捕获.PNG)
+  ![](assets/捕获.PNG)
 
 ### 3.1 配置密钥 
 
