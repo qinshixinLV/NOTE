@@ -37,9 +37,9 @@
 
 #### 3.1.2   设置TortoiseGit记住github用户名和密码，不用每次都输入
 
-![1558812467636](D:\cloneCode\NOTE\git使用\1558812467636.png)
+![](assets/捕获2.PNG)
 
-![1558812515405](D:\cloneCode\NOTE\git使用\1558812515405.png)
+![](assets/捕获.3PNG.PNG)
 
 最后内容修改为：
 
@@ -51,9 +51,7 @@
 
 - 设置为Git安装目录下的ssh.exe1
 
-![1558812662333](D:\cloneCode\NOTE\git使用\1558812662333.png)
-
-![](D:\cloneCode\NOTE\git使用/捕获.PNG)
+![](assets/捕获4.PNG)
 
 
 
