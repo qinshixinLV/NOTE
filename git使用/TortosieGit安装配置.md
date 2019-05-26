@@ -21,7 +21,7 @@
 
 ![1558810745476](C:\Users\1\AppData\Local\Temp\1558810745476.png)
 
-![img](https://images2018.cnblogs.com/blog/1090314/201807/1090314-20180715111951451-1345753291.png) 
+![img](C:/Users/1/Desktop/新建文件夹 (2)/1090314-20180715111951451-1345753291.png) 
 
 - 点击Generate,生成的过程中
 
